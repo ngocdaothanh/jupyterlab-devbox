@@ -4,7 +4,7 @@
     "init_hook": ". $VENV_DIR/bin/activate",
     "scripts": {
       "install_requirements": "pip install -r requirements.txt",
-      "jupyterlab":           "jupyter lab --notebook-dir=./notebooks --ip=0.0.0.0 --port=8888 --no-browser"
+      "jupyterlab":           "jupyter lab --notebook-dir=./notebooks"
     }
   }
 }
