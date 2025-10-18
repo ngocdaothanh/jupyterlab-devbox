@@ -1,1 +1,3 @@
 jupyterlab
+matplotlib
+sympy
